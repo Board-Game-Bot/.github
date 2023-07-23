@@ -8,6 +8,12 @@
 
 网站：[https://app3495.acapp.acwing.com.cn/](https://app3495.acapp.acwing.com.cn/)
 
+旧版前端：frontend-vue
+旧版后端：backend-java
+
+新版前端：frontend-solid
+新版后端：backend-nest
+
 # TodoList
 
 先在各个方向都确定一个比较宽泛的目标，详细的计划需要访问各个代码仓库查看 TodoList（将放在 issue 上）。
