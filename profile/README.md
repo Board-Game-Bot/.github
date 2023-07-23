@@ -14,6 +14,8 @@
 新版前端：frontend-solid
 新版后端：backend-nest
 
+开发文档：[飞书知识库](https://bytedance.feishu.cn/drive/folder/FSVFfD6Ool2qHvdyKEWcFzkGndb)
+
 # TodoList
 
 先在各个方向都确定一个比较宽泛的目标，详细的计划需要访问各个代码仓库查看 TodoList（将放在 issue 上）。
