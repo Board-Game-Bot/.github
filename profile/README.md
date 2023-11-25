@@ -15,7 +15,7 @@
 新版前端：`frontend-solid`\
 新版后端：`backend-nest`
 
-开发文档：[飞书知识库](https://bytedance.feishu.cn/drive/folder/FSVFfD6Ool2qHvdyKEWcFzkGndb)
+项目管理：[Github Project](https://github.com/orgs/Board-Game-Bot/projects/1/views/1?sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=Status)
 
 # TodoList
 
