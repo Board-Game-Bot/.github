@@ -16,28 +16,3 @@
 新版后端：`backend-nest`
 
 项目管理：[Github Project](https://github.com/orgs/Board-Game-Bot/projects/1/views/1?sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=Status)
-
-# TodoList
-
-先在各个方向都确定一个比较宽泛的目标，详细的计划需要访问各个代码仓库查看 TodoList（将放在 issue 上）。
-
-## 前端
-
-- **使用 Solid JS 重构**
-- 重新设计 UE 稿
-
-## 后端
-
-- **使用 Nest JS 重构**
-
-## 运维
-
-- **利用 Github Actions 自建流水线，前端/后端在提交代码并推送至远端时自动部署到自己的服务器上**
-
-## 项目包（Soku Game）
-
-- **继续重构架构，按照仓库上的 README 来重构**
-
-## 监控系统
-
-- **稍迟整理出方案**
